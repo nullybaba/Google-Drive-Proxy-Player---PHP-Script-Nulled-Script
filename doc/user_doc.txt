@@ -1,0 +1,53 @@
+
+/*
+  PRODUCT : GDplayer PHP Script
+  AUTHOR : CodySeller
+  DATE : 28/10/2020	
+  VERSION: 1.5	
+*/
+
+
+Product Description
+---------------------------------
+Google Drive Player Script helps you to stream video files stored on google drive in a fully customizable way, you will have full control over the player.
+
+
+Product Features
+--------------------------------
+@Hotlink Protection Included
+@JWplayer Player Included
+@Player Page Available
+@Admin Dashboard
+@Liftime Free Updates
+@Free Installation Service
+@Lifetime Technical Support
+
+
+How to Install
+--------------------------------
+1. Upload script folder to server
+2. Create database
+3. Open your site now (you will automatically redirect to install page)
+4. insert databse details there and click install btn
+
+
+Login Details
+--------------------------------
+default login details :
+	Username : admin
+	passowrd : 1234
+
+
+How To Protect My LInks
+--------------------------------
+Enable firewall option
+
+
+Author Support
+--------------------------------
+
+Email : codyseller99@gmail.com
+Fiverr : fiverr.com/codyseller
+
+Once again, thank you so much for purchasing this script. As I said at the beginning, I'd be glad to help you if you have any questions relating to this theme. No guarantees, but I'll do my best to assist. If you have a more general question relating to the scripts on codester, you might consider visiting the forums and asking your question in the "Item Discussion" section or contact me directly.
+
